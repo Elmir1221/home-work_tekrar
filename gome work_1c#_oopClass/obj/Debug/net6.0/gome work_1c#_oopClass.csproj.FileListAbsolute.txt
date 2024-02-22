@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\gome work_1c#_oopClass.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\gome work_1c#_oopClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\gome work_1c#_oopClass.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\gome work_1c#_oopClass.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\gome work_1c#_oopClass.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\bin\Debug\net6.0\gome work_1c#_oopClass.exe
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\bin\Debug\net6.0\gome work_1c#_oopClass.deps.json
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\bin\Debug\net6.0\gome work_1c#_oopClass.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\bin\Debug\net6.0\gome work_1c#_oopClass.dll
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\bin\Debug\net6.0\gome work_1c#_oopClass.pdb
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\gome work_1c#_oopClass.dll
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\refint\gome work_1c#_oopClass.dll
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\gome work_1c#_oopClass.pdb
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\gome work_1c#_oopClass.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\gome work_1c#_oopClass\obj\Debug\net6.0\ref\gome work_1c#_oopClass.dll

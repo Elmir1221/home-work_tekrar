@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gome work_1c#_oopClass", "gome work_1c#_oopClass.csproj", "{1EEACD9D-7F39-486D-9B0D-166D8F615302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EEACD9D-7F39-486D-9B0D-166D8F615302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEACD9D-7F39-486D-9B0D-166D8F615302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEACD9D-7F39-486D-9B0D-166D8F615302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEACD9D-7F39-486D-9B0D-166D8F615302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CAAD063-1705-494E-ABB4-765AA848F336}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gome work_1c#_oopClass/1.0.0": {
+        "runtime": {
+          "gome work_1c#_oopClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gome work_1c#_oopClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
